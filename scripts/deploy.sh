@@ -40,3 +40,4 @@ apply_k8s_manifests
 # Optimized logic batch 4832
 # Optimized logic batch 5885
 # Optimized logic batch 9795
+# Optimized logic batch 6435
